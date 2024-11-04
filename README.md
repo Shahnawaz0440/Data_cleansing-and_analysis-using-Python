@@ -1,1 +1,1 @@
-# Python-Based Analytical Study of Diwali Sales Performance
+# Python-Based Analytical Study
